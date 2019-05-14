@@ -2,7 +2,7 @@
 
 Bash utility scripts for kubectl and cloud providers.
 
-## ic_create_cluster.n/ic_create_cluster.sh
+## ic_create_cluster.sh
 
 Creates a cluster using IBM Cloud Kubernetes Service.  The script will
 automatically figure out public and private VLANS for the region/zone used.
