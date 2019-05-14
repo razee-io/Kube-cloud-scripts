@@ -1,6 +1,6 @@
-# kube-ibmcloud-cli
+# kube-cloud-scripts
 
-Bash utility scripts for kubectl and ibmcloud CLI.
+Bash utility scripts for kubectl and cloud providers.
 
 ## ic_create_cluster.n/ic_create_cluster.sh
 
