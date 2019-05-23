@@ -32,6 +32,16 @@ Example:
 ./bin/kc_create_razeedash_config.sh
 ```
 
+## kc_delete_kapitan_delta.sh
+
+Removes Kapitan delta from Kubernetes cluster.
+
+Example:
+
+```bash
+./bin/kc_delete_kapitan_delta.sh
+```
+
 ## kc_logs.sh
 
 Fetches logs for all Kubernetes pods under namespace/application name for the last
